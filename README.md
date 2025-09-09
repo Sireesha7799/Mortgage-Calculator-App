@@ -29,5 +29,5 @@ This is an Android application built using Kotlin and XML layouts that helps use
 - The monthly mortgage payment is displayed.
 
 ## 📷 Screenshots
-[<img src="Screenshot_20250907-123111.jpg" width="250"/>](Screenshot_20250907-123111.jpg) [<img src="Screenshot_20250907-123118.jpg" width="250"/>](Screenshot_20250907-123118.jpg) [<img src="Screenshot_20250907-123126.jpg" width="250"/>](Screenshot_20250907-123126.jpg) [<img src="Screenshot_20250907-123132.jpg" width="250"/>](Screenshot_20250907-123132.jpg) [<img src="Screenshot_20250907-123229.jpg" width="250"/>](Screenshot_20250907-123229.jpg) [<img src="Screenshot_20250910-011602.jpg" width="250"/>](Screenshot_20250910-011602.jpg)
+[<img src="Screenshot_20250907-123111.jpg" width="250"/>](Screenshot_20250907-123111.jpg) [<img src="Screenshot_20250907-123118.jpg" width="250"/>](Screenshot_20250907-123118.jpg) [<img src="Screenshot_20250907-123126.jpg" width="250"/>](Screenshot_20250907-123126.jpg) [<img src="Screenshot_20250907-123132.jpg" width="250"/>](Screenshot_20250907-123132.jpg) [<img src="Screenshot_20250910-014039.jpg" width="250"/>](Screenshot_20250910-014039.jpg) [<img src="Screenshot_20250910-011602.jpg" width="250"/>](Screenshot_20250910-011602.jpg)
 
